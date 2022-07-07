@@ -1,0 +1,27 @@
+{
+  "name": "vite-plugin-crx",
+  "version": "0.0.0-beta.0",
+  "description": "Vite plugin for Chrome Extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guocaoyi/vite-plugin-crx.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "crx",
+    "rollup-plugin",
+    "chrome-extension",
+    "chrome"
+  ],
+  "author": "yalda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guocaoyi/vite-plugin-crx/issues"
+  },
+  "homepage": "https://github.com/guocaoyi/vite-plugin-crx#readme"
+}
