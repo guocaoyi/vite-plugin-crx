@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+dist
+esm
+cjs
+types
+
+coverage
+node_modules
+pnpm-lock.yaml
+pnpm-workspace.yaml
